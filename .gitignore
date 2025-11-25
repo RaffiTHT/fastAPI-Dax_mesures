@@ -1,0 +1,38 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# ---- OS-systemfiler ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Python tooling ----
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ---- Pytest / cache ----
+.pytest_cache/
+.coverage
+
+# ---- Uvicorn reload artifacts ----
+*.pid
+
+# ---- App specific ----
+# Inga CSV-filer ska ignoreras eftersom projektet behöver dem
+# Ignored: inga
