@@ -14,7 +14,7 @@ Perfekt som grund innan man bygger större projekt med SQL och Power BI.
 
 # 📁 Projektstruktur
 
-
+'''
 my-dax-training/
 │
 ├── app/
@@ -35,7 +35,7 @@ my-dax-training/
 │
 ├── requirements.txt
 └── README.md
-
+''' 
 ---
 
 # 🚀 Installation
