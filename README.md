@@ -14,6 +14,7 @@ Perfekt som grund innan man bygger större projekt med SQL och Power BI.
 
 # 📁 Projektstruktur
 
+<<<<<<< HEAD
 
     my-dax-training/
     │
@@ -36,6 +37,30 @@ Perfekt som grund innan man bygger större projekt med SQL och Power BI.
     ├── requirements.txt
     └── README.med
 
+=======
+'''
+my-dax-training/
+│
+├── app/
+│   ├── main.py
+│   │
+│   ├── api/v1/endpoints.py
+│   │
+│   ├── models/tables.py
+│   │
+│   ├── services/
+│   │   ├── data_loader.py
+│   │   └── dax_measures.py
+│   │
+│   └── data/raw/
+│       ├── units.csv
+│       ├── clients.csv
+│       └── visits.csv
+│
+├── requirements.txt
+└── README.md
+''' 
+>>>>>>> 5dd2714a61b3ee50d58310a01ed57474e18ec529
 ---
 
 # 🚀 Installation
